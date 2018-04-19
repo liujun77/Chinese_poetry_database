@@ -13,3 +13,6 @@
 * 近现代：5万余首
 * 当代：3万余首
 
+|作者统计|类别统计|
+| :---: | :---: |
+| ![作者统计](https://github.com/liujun77/Chinese_poetry_database/blob/master/img/authors.png "作者统计")| ![类别统计](https://github.com/liujun77/Chinese_poetry_database/blob/master/img/types.png "类别统计")|
