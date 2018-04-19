@@ -16,3 +16,25 @@
 |作者统计|类别统计|
 | :---: | :---: |
 | ![作者统计](https://github.com/liujun77/Chinese_poetry_database/blob/master/img/authors.png "作者统计")| ![类别统计](https://github.com/liujun77/Chinese_poetry_database/blob/master/img/types.png "类别统计")|
+
+### 诗歌json格式
+
+```text
+[
+    {
+        "author": "严嵩", 
+        "era": "明", 
+        "subtype": "七言律诗", 
+        "text": [
+            "江上新传李郭舟，鹤汀凫渚羡清游。", 
+            "谁知今雨来千里，似忆佳期渺十洲。", 
+            "梧竹越山栖綵凤，风云天路引骅骝。", 
+            "相留拟下南州榻，醉里狂歌海月秋。"
+        ], 
+        "title": "徐养斋方棠陵偕至喜而有作用王浚川韵", 
+        "type": "律诗", 
+        "yun": "尤"
+    }, 
+  ... 每个json文件5000条诗歌记录
+]
+```
